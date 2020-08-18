@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Leandro Alves`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Leandro Alves`,
+      summary: `que constrói coisas para facilidar a vida das pessoas`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    description: `Sobre o mundo, o universo e tudo mais`,
+    siteUrl: `https://leandroalves.org`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `leandrokanis`,
     },
   },
   plugins: [
